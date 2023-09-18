@@ -1,0 +1,53 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body {
+    margin: 2%;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(213, 250, 250);
+    background-color: rgb(0, 88, 110);
+    padding: 10px;
+    
+    
+}
+
+ li {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+    background-color: rgb(240, 240, 240);
+    margin: 10px 0;
+    width: 30%;
+    
+    
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin: 10px auto;
+    border: 5px double rgb(36, 175, 129);
+    
+}
+
+p {
+    font-size: 20px;
+    color:rgb(0, 5, 51);
+    padding: 10px 10px 10px 0;
+}
+
+h2 {
+    font-weight: bolder;
+    color: rgb(0, 48, 10);
+    background-color: rgb(187, 187, 187);
+    padding: 7px;
+    width: 12%;
+    text-align: center;
+    border: 1px dotted;
+    
+}
